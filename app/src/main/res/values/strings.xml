@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner_calculator</string>
+    <string name="msg1">0</string>
+    <string name="msg2">0</string>
+    <string name="name">Hardik Goyal</string>
+    <string name="result">Result</string>
+    <string name="ques">Select any option</string>
+    <string name="cal">Calculate</string>
+    <string name="heading">Calculator</string>
+</resources>
